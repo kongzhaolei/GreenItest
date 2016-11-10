@@ -1,7 +1,5 @@
 package com.needle.greenitest.login;
 
-import java.util.Map;
-
 public interface Login {
 
 	/**
